@@ -8,7 +8,7 @@ const konstantin: Person = {
   "city": "Gothenburg, Sweden",
   "company": "Intunio AB",
   "developerType": DeveloperTypeEnum.FullStack,
-  "languages": ["Javascript", "Typescript", "Swift", "Rust"],
+  "languages": ["Javascript", "Typescript", "Swift", "Rust (Just started)"],
   "hobbies": getDefaultMillenialHobbies(),
 }
 ```
