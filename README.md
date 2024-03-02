@@ -4,10 +4,10 @@
 ```typescript
 const konstantin: Person = {
   "fullName": "Konstantin Ay",
-  "age": 27,
+  "age": 28,
   "city": "Gothenburg, Sweden",
   "company": "Intunio AB",
-  "developerType": DeveloperTypeEnum.FullStack,
+  "developerType": DeveloperType.FullStack,
   "languages": ["Javascript", "Typescript", "Swift", "Rust (Just started)"],
   "hobbies": getDefaultMillenialHobbies(),
 }
